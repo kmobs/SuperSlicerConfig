@@ -1,4 +1,3 @@
 # SuperSlicerConfig
-These are my recent superslicer settings running on an Ender 3 Pro with a Manta Compact hotend assembly. 
-
+These are my recent superslicer settings. K3 and V2 are up to date.
 On windows, place the files in %APPDATA%/SuperSlicer
